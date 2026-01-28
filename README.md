@@ -24,17 +24,17 @@ severity of accidents and to also identify high-risk factors contributing to acc
 - Most accidents occurred in urban areas, mainly involving car drivers.
 - Large cities were identified as accident hotspots.
 - Many accidents happened in 30 mph zones, showing risks at lower speeds.
-- Driver behavior and heavy traffic were the main causes, not weather conditions.
+- Driver behaviour and heavy traffic were the main causes, not weather conditions.
 - Most accidents at 86% are slight in severity.
 
 ### Monthly Accident Trends 
-- November recorderd the highest number of accidents (29,095).
+- November recorded the highest number of accidents (29,095).
 - Shorter daylight, increased commuting, and busy periods in autumn and winter contribute to higher accident rates.
 
 ### Effect of light condition
 - Most casualties (304,962) occurred during daylight when roads are busiest.
 - Good visibility during the day does not always prevent accidents, dur to human behaviour.
-- The least casualities (1,538) occurred in unlit darkness.
+- The least casualties (1,538) occurred in unlit darkness.
 
 ### Weather's Impact
 - Most accidents occurred during clear weather conditions not in poor weather conditions, contrary to common assumptions.
@@ -47,10 +47,10 @@ severity of accidents and to also identify high-risk factors contributing to acc
 
 ### Road conditions
 - Most accidents and casualties occur on dry roads.
-- Driver behavior has a greater impact on road accidents than road surface conditions.
+- Driver behaviour has a greater impact on road accidents than road surface conditions.
 - Drivers are more cautious on wet or icy roads, resulting to fewer accidents.
 
-### Junction contol
+### Junction control
 - Give way or uncontrolled junctions had the highest accidents (150,045)
 - Many accidents are linked to missing or inaccurate data of junction control.
 - Controlled junctions with traffic lights or officers have the fewest accidents (460).
@@ -69,7 +69,7 @@ severity of accidents and to also identify high-risk factors contributing to acc
 
 ## KEY RECOMMENDATIONS 
 - Enhanced Police Patrols: Increase patrols during peak hours in high-traffic and high-risk areas to protect vulnerable road users.
-- Awareness & Education: Run public campaigns and school programs to promote safer road behavior.
+- Awareness & Education: Run public campaigns and school programs to promote safer road behaviour.
 - Traffic & Speed Control: Improve signals, signage, speed enforcement, and 30 mph zone compliance.
 - Traffic Control Improvements: Upgrade junctions, add stop signs, and apply targeted interventions.
 - Data-Driven Actions: Use detailed accident data, accurate data recording to address high-risk times and locations as well as detailed accident data support.
